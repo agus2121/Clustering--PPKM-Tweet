@@ -2,7 +2,7 @@
 
 ## Dataset
 
-I pull text data from twitter with Twitter API with keyword 'PPKM'. 
+I pull text data using Twitter API with keyword 'PPKM'. 
 
 ## Step
 
